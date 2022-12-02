@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend\\api",
+    "\\backend\\api\\Counter",
+    "\\backend\\api\\Counter\\Counter",
+    "\\backend\\tests",
+    "\\frontend"
+  ],
+  "SelectedNode": "\\frontend",
+  "PreviewInSolutionExplorer": false
+}
